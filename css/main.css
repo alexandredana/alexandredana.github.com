@@ -4,11 +4,61 @@
    Author's custom styles
    ========================================================================== */
 
+.project {
 
+background: url("../img/classy_fabric.png") repeat fixed;
+margin: 0;
+padding: 0;
+font-family: "Pt Sans";
+color: #FFF;
 
+}
 
+.masthead {
 
+padding: 50px 0;
+text-align: center;
 
+}
+
+.masthead a {
+
+color: #FFF;
+
+}
+
+.masthead a img {
+
+border-radius: 5px;
+border: 2px solid white;
+
+}
+
+.project ul {
+
+margin: 0;
+padding: 0;
+
+}
+
+.project li {
+
+list-style: none;
+display: inline;
+
+}
+
+.project li:first-child {
+
+margin-right: 10px;
+
+}
+
+.project li:last-child {
+
+margin-left: 10px;
+
+}
 
 
 
